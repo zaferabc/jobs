@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hwang\\OneDrive\\Masaüstü\\SK_Jobs\\SK_Jobs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hwang\\OneDrive\\Masaüstü\\SK_Jobs\\SK_Jobs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hwang\\OneDrive\\Masaüstü\\SK_Jobs\\SK_Jobs.csproj",
+        "projectName": "SK_Jobs",
+        "projectPath": "C:\\Users\\hwang\\OneDrive\\Masaüstü\\SK_Jobs\\SK_Jobs.csproj",
+        "packagesPath": "C:\\Users\\hwang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hwang\\OneDrive\\Masaüstü\\SK_Jobs\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\hwang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Legacy2CPSWorkaround": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "RocketMod.Modern.Dependencies": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[1.*-*, )"
+            },
+            "RocketMod.Modern.Generator": {
+              "target": "Package",
+              "version": "[1.*-*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

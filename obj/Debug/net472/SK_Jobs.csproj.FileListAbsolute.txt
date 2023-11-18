@@ -1,0 +1,9 @@
+C:\Users\hwang\OneDrive\Masaüstü\SK_Jobs\bin\Debug\net472\SK_Jobs.dll
+C:\Users\hwang\OneDrive\Masaüstü\SK_Jobs\bin\Debug\net472\SK_Jobs.pdb
+C:\Users\hwang\OneDrive\Masaüstü\SK_Jobs\obj\Debug\net472\SK_Jobs.csproj.AssemblyReference.cache
+C:\Users\hwang\OneDrive\Masaüstü\SK_Jobs\obj\Debug\net472\SK_Jobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwang\OneDrive\Masaüstü\SK_Jobs\obj\Debug\net472\SK_Jobs.AssemblyInfoInputs.cache
+C:\Users\hwang\OneDrive\Masaüstü\SK_Jobs\obj\Debug\net472\SK_Jobs.AssemblyInfo.cs
+C:\Users\hwang\OneDrive\Masaüstü\SK_Jobs\obj\Debug\net472\SK_Jobs.csproj.CoreCompileInputs.cache
+C:\Users\hwang\OneDrive\Masaüstü\SK_Jobs\obj\Debug\net472\SK_Jobs.dll
+C:\Users\hwang\OneDrive\Masaüstü\SK_Jobs\obj\Debug\net472\SK_Jobs.pdb
